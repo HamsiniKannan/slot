@@ -114,7 +114,7 @@ Execute the program
 ```
 
 # OUTPUT
-![OUTPUT](./Out.png)
+![OUTPUT](./Out1.png)
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](./valid.png)
